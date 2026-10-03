@@ -1,5 +1,5 @@
 
-##First day of the semester
+## First day of the semester
 
 ![Happy](happy_wojack.png)
 
