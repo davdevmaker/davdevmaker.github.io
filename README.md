@@ -1,10 +1,10 @@
 
-## First day of the semester
+## Friday
 
-![Happy](happy_wojack.png)
+<img src="happy_wojack.png" alt="happy" width="300" height="400">
 
 
 
-## Finals week
+## Monday
 
-![depressed wojack yo.](depressed_wojack.jpg)
+<img src="depressed_wojack.jpg" alt="depressed yo." width="300" height="400">
