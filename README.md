@@ -1,5 +1,10 @@
 
+#First day of the semester
 
-## A second-level heading
+![Happy](happy_wojack.png)
+
+
+
+## Finals week
 
 ![depressed wojack yo.](depressed_wojack.jpg)
