@@ -11,4 +11,4 @@
 
 ## tuesday
 
-<img src="bird.gif" alt="bird" width="440" height="280">
+<img src="images/bird.gif" alt="bird" width="440" height="280">
